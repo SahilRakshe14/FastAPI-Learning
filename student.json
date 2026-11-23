@@ -1,0 +1,83 @@
+
+{
+    "S001": {
+        "name": "Aarav Sharma",
+        "age": 20,
+        "email": "aarav.sharma@example.com",
+        "course": "Python",
+        "marks": 92,
+        "salary": 45000
+    },
+    "S002": {
+        "name": "Diya Patel",
+        "age": 21,
+        "email": "diya.patel@example.com",
+        "course": "Data Science",
+        "marks": 85,
+        "salary": 52000
+    },
+    "S003": {
+        "name": "Rohan Verma",
+        "age": 22,
+        "email": "rohan.verma@example.com",
+        "course": "Java",
+        "marks": 88,
+        "salary": 48000
+    },
+    "S004": {
+        "name": "Priya Deshmukh",
+        "age": 20,
+        "email": "priya.deshmukh@example.com",
+        "course": "Web Development",
+        "marks": 95,
+        "salary": 55000
+    },
+    "S005": {
+        "name": "Aditya Kulkarni",
+        "age": 23,
+        "email": "aditya.kulkarni@example.com",
+        "course": "Artificial Intelligence",
+        "marks": 79,
+        "salary": 60000
+    },
+    "S006": {
+        "name": "Sneha Joshi",
+        "age": 21,
+        "email": "sneha.joshi@example.com",
+        "course": "Python",
+        "marks": 89,
+        "salary": 47000
+    },
+    "S007": {
+        "name": "Karan Mehta",
+        "age": 22,
+        "email": "karan.mehta@example.com",
+        "course": "Java",
+        "marks": 76,
+        "salary": 42000
+    },
+    "S008": {
+        "name": "Ananya Rao",
+        "age": 20,
+        "email": "ananya.rao@example.com",
+        "course": "Data Science",
+        "marks": 91,
+        "salary": 58000
+    },
+    "S009": {
+        "name": "Vikram Singh",
+        "age": 24,
+        "email": "vikram.singh@example.com",
+        "course": "Web Development",
+        "marks": 82,
+        "salary": 50000
+    },
+    "S010": {
+        "name": "Meera Shah",
+        "age": 21,
+        "email": "meera.shah@example.com",
+        "course": "Artificial Intelligence",
+        "marks": 97,
+        "salary": 65000
+    }
+}
